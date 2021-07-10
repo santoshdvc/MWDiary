@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MW Diary</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">221623114699507</string>
+
+    <string name="user_exists">User already logged in</string>
+    <string name="sign_in_facebook">Sign in with Facebook</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5746277325829241~3330828976</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="ver_name">First Release</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MWDiary" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#457b9d</item>
+        <item name="colorPrimaryVariant">#fff</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="cardBackgroundColor">#fff</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#fca311</item>
+        <item name="colorSecondaryVariant">#f48c06</item>
+        <item name="colorOnSecondary">#e5e5e5</item>
+        <item name="android:dialogCornerRadius" tools:targetApi="28">10dp</item>
+        <item name="android:alertDialogTheme" tools:targetApi="1">@style/Theme.AppCompat.Light.Dialog</item>
+        <item name="colorAccent">#000</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <item name="android:navigationBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
